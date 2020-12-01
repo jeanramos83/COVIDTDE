@@ -1,0 +1,93 @@
+E:\Faculdade\2020_2\programação web\códigos\códigos aula\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Faculdade\2020_2\programação web\códigos\códigos aula\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Faculdade\2020_2\programação web\códigos\códigos aula\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\Faculdade\2020_2\programação web\códigos\códigos aula\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\Codiv19.API.exe
+E:\Faculdade\2020_2\programação web\códigos\códigos aula\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\Codiv19.API.deps.json
+E:\Faculdade\2020_2\programação web\códigos\códigos aula\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\Codiv19.API.runtimeconfig.json
+E:\Faculdade\2020_2\programação web\códigos\códigos aula\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\Codiv19.API.runtimeconfig.dev.json
+E:\Faculdade\2020_2\programação web\códigos\códigos aula\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\Codiv19.API.dll
+E:\Faculdade\2020_2\programação web\códigos\códigos aula\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\Codiv19.API.pdb
+E:\Faculdade\2020_2\programação web\códigos\códigos aula\Covid19\Codiv19.API\Codiv19.API\obj\Debug\netcoreapp3.1\Codiv19.API.csprojAssemblyReference.cache
+E:\Faculdade\2020_2\programação web\códigos\códigos aula\Covid19\Codiv19.API\Codiv19.API\obj\Debug\netcoreapp3.1\Codiv19.API.AssemblyInfoInputs.cache
+E:\Faculdade\2020_2\programação web\códigos\códigos aula\Covid19\Codiv19.API\Codiv19.API\obj\Debug\netcoreapp3.1\Codiv19.API.AssemblyInfo.cs
+E:\Faculdade\2020_2\programação web\códigos\códigos aula\Covid19\Codiv19.API\Codiv19.API\obj\Debug\netcoreapp3.1\Codiv19.API.RazorTargetAssemblyInfo.cache
+E:\Faculdade\2020_2\programação web\códigos\códigos aula\Covid19\Codiv19.API\Codiv19.API\obj\Debug\netcoreapp3.1\staticwebassets\Codiv19.API.StaticWebAssets.Manifest.cache
+E:\Faculdade\2020_2\programação web\códigos\códigos aula\Covid19\Codiv19.API\Codiv19.API\obj\Debug\netcoreapp3.1\staticwebassets\Codiv19.API.StaticWebAssets.xml
+E:\Faculdade\2020_2\programação web\códigos\códigos aula\Covid19\Codiv19.API\Codiv19.API\obj\Debug\netcoreapp3.1\Codiv19.API.dll
+E:\Faculdade\2020_2\programação web\códigos\códigos aula\Covid19\Codiv19.API\Codiv19.API\obj\Debug\netcoreapp3.1\Codiv19.API.pdb
+E:\Faculdade\2020_2\programação web\códigos\códigos aula\Covid19\Codiv19.API\Codiv19.API\obj\Debug\netcoreapp3.1\Codiv19.API.genruntimeconfig.cache
+E:\Faculdade\2020_2\programação web\códigos\códigos aula\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\FluentValidation.dll
+E:\Faculdade\2020_2\programação web\códigos\códigos aula\Covid19\Codiv19.API\Codiv19.API\obj\Debug\netcoreapp3.1\Codiv19.API.csproj.CopyComplete
+E:\Faculdade\2020_2\programação web\códigos\códigos aula\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Faculdade\2020_2\programação web\códigos\códigos aula\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Faculdade\2020_2\programação web\códigos\códigos aula\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Faculdade\2020_2\programação web\códigos\códigos aula\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Faculdade\2020_2\programação web\códigos\códigos aula\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Faculdade\2020_2\programação web\códigos\códigos aula\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Faculdade\2020_2\programação web\códigos\códigos aula\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Faculdade\2020_2\programação web\códigos\códigos aula\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Faculdade\2020_2\programação web\códigos\códigos aula\Covid19\Codiv19.API\Codiv19.API\obj\Debug\netcoreapp3.1\Codiv19.API.csproj.CoreCompileInputs.cache
+E:\Faculdade\2020_2\programação web\códigos\códigos aula\Covid19\Codiv19.API\Codiv19.API\obj\Debug\netcoreapp3.1\Codiv19.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jean\Desktop\TDE - Desenvolvimento Web\desenv_web_2_2020-master\códigos aula\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Jean\Desktop\TDE - Desenvolvimento Web\desenv_web_2_2020-master\códigos aula\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Jean\Desktop\TDE - Desenvolvimento Web\desenv_web_2_2020-master\códigos aula\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Jean\Desktop\TDE - Desenvolvimento Web\desenv_web_2_2020-master\códigos aula\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\Codiv19.API.exe
+C:\Users\Jean\Desktop\TDE - Desenvolvimento Web\desenv_web_2_2020-master\códigos aula\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\Codiv19.API.deps.json
+C:\Users\Jean\Desktop\TDE - Desenvolvimento Web\desenv_web_2_2020-master\códigos aula\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\Codiv19.API.runtimeconfig.json
+C:\Users\Jean\Desktop\TDE - Desenvolvimento Web\desenv_web_2_2020-master\códigos aula\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\Codiv19.API.runtimeconfig.dev.json
+C:\Users\Jean\Desktop\TDE - Desenvolvimento Web\desenv_web_2_2020-master\códigos aula\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\Codiv19.API.dll
+C:\Users\Jean\Desktop\TDE - Desenvolvimento Web\desenv_web_2_2020-master\códigos aula\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\Codiv19.API.pdb
+C:\Users\Jean\Desktop\TDE - Desenvolvimento Web\desenv_web_2_2020-master\códigos aula\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\Jean\Desktop\TDE - Desenvolvimento Web\desenv_web_2_2020-master\códigos aula\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Jean\Desktop\TDE - Desenvolvimento Web\desenv_web_2_2020-master\códigos aula\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Jean\Desktop\TDE - Desenvolvimento Web\desenv_web_2_2020-master\códigos aula\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Jean\Desktop\TDE - Desenvolvimento Web\desenv_web_2_2020-master\códigos aula\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Jean\Desktop\TDE - Desenvolvimento Web\desenv_web_2_2020-master\códigos aula\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Jean\Desktop\TDE - Desenvolvimento Web\desenv_web_2_2020-master\códigos aula\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Jean\Desktop\TDE - Desenvolvimento Web\desenv_web_2_2020-master\códigos aula\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Jean\Desktop\TDE - Desenvolvimento Web\desenv_web_2_2020-master\códigos aula\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Jean\Desktop\TDE - Desenvolvimento Web\desenv_web_2_2020-master\códigos aula\Covid19\Codiv19.API\Codiv19.API\obj\Debug\netcoreapp3.1\Codiv19.API.csprojAssemblyReference.cache
+C:\Users\Jean\Desktop\TDE - Desenvolvimento Web\desenv_web_2_2020-master\códigos aula\Covid19\Codiv19.API\Codiv19.API\obj\Debug\netcoreapp3.1\Codiv19.API.AssemblyInfoInputs.cache
+C:\Users\Jean\Desktop\TDE - Desenvolvimento Web\desenv_web_2_2020-master\códigos aula\Covid19\Codiv19.API\Codiv19.API\obj\Debug\netcoreapp3.1\Codiv19.API.AssemblyInfo.cs
+C:\Users\Jean\Desktop\TDE - Desenvolvimento Web\desenv_web_2_2020-master\códigos aula\Covid19\Codiv19.API\Codiv19.API\obj\Debug\netcoreapp3.1\Codiv19.API.RazorTargetAssemblyInfo.cache
+C:\Users\Jean\Desktop\TDE - Desenvolvimento Web\desenv_web_2_2020-master\códigos aula\Covid19\Codiv19.API\Codiv19.API\obj\Debug\netcoreapp3.1\Codiv19.API.csproj.CopyComplete
+C:\Users\Jean\Desktop\TDE - Desenvolvimento Web\desenv_web_2_2020-master\códigos aula\Covid19\Codiv19.API\Codiv19.API\obj\Debug\netcoreapp3.1\staticwebassets\Codiv19.API.StaticWebAssets.Manifest.cache
+C:\Users\Jean\Desktop\TDE - Desenvolvimento Web\desenv_web_2_2020-master\códigos aula\Covid19\Codiv19.API\Codiv19.API\obj\Debug\netcoreapp3.1\staticwebassets\Codiv19.API.StaticWebAssets.xml
+C:\Users\Jean\Desktop\TDE - Desenvolvimento Web\desenv_web_2_2020-master\códigos aula\Covid19\Codiv19.API\Codiv19.API\obj\Debug\netcoreapp3.1\Codiv19.API.dll
+C:\Users\Jean\Desktop\TDE - Desenvolvimento Web\desenv_web_2_2020-master\códigos aula\Covid19\Codiv19.API\Codiv19.API\obj\Debug\netcoreapp3.1\Codiv19.API.pdb
+C:\Users\Jean\Desktop\TDE - Desenvolvimento Web\desenv_web_2_2020-master\códigos aula\Covid19\Codiv19.API\Codiv19.API\obj\Debug\netcoreapp3.1\Codiv19.API.genruntimeconfig.cache
+C:\Users\Jean\Desktop\TDE - Desenvolvimento Web\desenv_web_2_2020-master\códigos aula\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Jean\Desktop\TDE - Desenvolvimento Web\desenv_web_2_2020-master\códigos aula\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Jean\Desktop\TDE - Desenvolvimento Web\desenv_web_2_2020-master\códigos aula\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Jean\Desktop\TDE - Desenvolvimento Web\desenv_web_2_2020-master\códigos aula\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Jean\Desktop\TDE - Desenvolvimento Web\desenv_web_2_2020-master\códigos aula\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Jean\Desktop\TDE - Desenvolvimento Web\desenv_web_2_2020-master\códigos aula\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Jean\Desktop\TDE - Desenvolvimento Web\desenv_web_2_2020-master\códigos aula\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Jean\Desktop\TDE - Desenvolvimento Web\desenv_web_2_2020-master\códigos aula\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Jean\Desktop\TDE - Desenvolvimento Web\desenv_web_2_2020-master\códigos aula\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Jean\Desktop\TDE - Desenvolvimento Web\desenv_web_2_2020-master\códigos aula\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Jean\Desktop\TDE - Desenvolvimento Web\desenv_web_2_2020-master\códigos aula\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Jean\Desktop\TDE - Desenvolvimento Web\desenv_web_2_2020-master\códigos aula\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Jean\Desktop\TDE - Desenvolvimento Web\desenv_web_2_2020-master\códigos aula\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Jean\Desktop\TDE - Desenvolvimento Web\desenv_web_2_2020-master\códigos aula\Covid19\Codiv19.API\Codiv19.API\obj\Debug\netcoreapp3.1\Codiv19.API.csproj.CoreCompileInputs.cache
+C:\Users\Jean\Desktop\TDE - Desenvolvimento Web\desenv_web_2_2020-master\códigos aula\Covid19\Codiv19.API\Codiv19.API\obj\Debug\netcoreapp3.1\Codiv19.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jean\Desktop\TDE - Desenvolvimento Web\desenv_web_2_2020-master\códigos aula\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Jean\Desktop\TDE - Desenvolvimento Web\desenv_web_2_2020-master\códigos aula\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Jean\Desktop\TDE - Desenvolvimento Web\desenv_web_2_2020-master\códigos aula\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Jean\Desktop\TDE - Desenvolvimento Web\desenv_web_2_2020-master\códigos aula\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Jean\Desktop\TDE - Desenvolvimento Web\desenv_web_2_2020-master\códigos aula\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Jean\Desktop\TDE - Desenvolvimento Web\desenv_web_2_2020-master\códigos aula\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Jean\Desktop\TDE - Desenvolvimento Web\desenv_web_2_2020-master\códigos aula\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Jean\Desktop\TDE - Desenvolvimento Web\desenv_web_2_2020-master\códigos aula\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jean\Desktop\TDE - Desenvolvimento Web\desenv_web_2_2020-master\códigos aula\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Jean\Desktop\TDE - Desenvolvimento Web\desenv_web_2_2020-master\códigos aula\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Jean\Desktop\TDE - Desenvolvimento Web\desenv_web_2_2020-master\códigos aula\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jean\Desktop\TDE - Desenvolvimento Web\desenv_web_2_2020-master\códigos aula\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Jean\Desktop\TDE - Desenvolvimento Web\desenv_web_2_2020-master\códigos aula\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jean\Desktop\TDE - Desenvolvimento Web\desenv_web_2_2020-master\códigos aula\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Jean\Desktop\TDE - Desenvolvimento Web\desenv_web_2_2020-master\códigos aula\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jean\Desktop\TDE - Desenvolvimento Web\desenv_web_2_2020-master\códigos aula\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Jean\Desktop\TDE - Desenvolvimento Web\desenv_web_2_2020-master\códigos aula\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jean\Desktop\TDE - Desenvolvimento Web\desenv_web_2_2020-master\códigos aula\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Jean\Desktop\TDE - Desenvolvimento Web\desenv_web_2_2020-master\códigos aula\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Jean\Desktop\TDE - Desenvolvimento Web\desenv_web_2_2020-master\códigos aula\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
